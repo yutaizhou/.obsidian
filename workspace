@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "be43f00906c39a3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "86cc3c4731dbe56e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Journal/04.16.2021_W16.Fri.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cc9f901a17fd1513",
+    "type": "split",
+    "children": [
+      {
+        "id": "f64da1fb0ade6822",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "515d2ea60796f38a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "672860cc3956bf88",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "783e5377c6b79852",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 260
+  },
+  "right": {
+    "id": "8d2812bfaca5ab90",
+    "type": "split",
+    "children": [
+      {
+        "id": "12f211948e92fb53",
+        "type": "tabs",
+        "dimension": 42.88702928870293,
+        "children": [
+          {
+            "id": "75a9d0e022f4a5bf",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "705ae394c01a0498",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "18d544bfa3a16a48",
+        "type": "tabs",
+        "dimension": 57.11297071129707,
+        "children": [
+          {
+            "id": "77ca2c8543adba14",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "343550f4d6887387",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Journal/04.16.2021_W16.Fri.md"
+              }
+            }
+          },
+          {
+            "id": "1da042d7bd9f4f44",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Journal/04.16.2021_W16.Fri.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 268,
+    "collapsed": true
+  },
+  "active": "86cc3c4731dbe56e",
+  "lastOpenFiles": [
+    "Journal/04.16.2021_W16.Fri.md",
+    "Lincoln Lab/MeRLin/HMT/Main.md",
+    "Journal/04.14.2021_W16.Wed.md",
+    "Paper Notes/Decoupling feature extraction from policy learning_ Assessing benefits of state representation learning in goal based robotics.md",
+    "Lincoln Lab/MeRLin/HMT/Literature Review.md",
+    "Lincoln Lab/MeRLin/HMT/Meeting Notes.md",
+    "Lincoln Lab/SBIR/AIML Approach.md",
+    "Lincoln Lab/SBIR/SBIR Meeting Notes.md",
+    "Lincoln Lab/MeRLin/Comm/Main.md",
+    "Paper Notes/_Other-Play_ for Zero-Shot Coordination.md"
+  ]
+}
